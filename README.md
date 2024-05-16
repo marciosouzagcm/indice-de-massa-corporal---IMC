@@ -9,4 +9,4 @@ Menor que 18,5: Magreza
 25,0 a 29,9: Sobrepeso grau I
 30,0 a 39,9: Obesidade grau II
 Maior que 40: Obesidade grau III ou mórbida
-Essas faixas ajudam os profissionais de saúde a identificar riscos potenciais relacionados a condições crônicas como doenças cardíacas, diabetes tipo 2, e outros problemas de saúde associados com excesso ou falta de peso. No entanto, é importante lembrar que o IMC é uma medida aproximada e não leva em conta a massa muscular, a densidade óssea, a distribuição geral de gordura e outras variáveis. Portanto, pode não ser um indicativo preciso de gordura corporal para atletas, idosos, e algumas outras populações.
+Essas faixas ajudam os profissionais de saúde a identificar riscos potenciais relacionados a condições crônicas como doenças cardíacas, diabetes tipo 2, e outros problemas de saúde associados com excesso ou falta de peso. No entanto, é importante lembrar que o IMC é uma medida aproximada e não leva em conta a massa muscular, a densidade óssea, a distribuição geral de gordura e outras variáveis. Portanto, pode não ser um indicativo preciso de gordura corporal para atletas, idosos, e algumas outras populações
